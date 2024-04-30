@@ -33,4 +33,4 @@ El proyecto consiste en una aplicación de escritorio desarrollada en JavaFX que
 
 ---
 
-*Copyright © 2024. Todos los derechos reservados.*
+*Copyright © 2023. Todos los derechos reservados.*
